@@ -99,3 +99,17 @@ target/
 # Cookiecutter
 output/
 python_boilerplate/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temporary files
+*.swp
+*~
+
+
+# virtual env
+.env
+.venv
+venv/
+ENV/
